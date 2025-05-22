@@ -442,16 +442,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-18 23:16:33 -0600",
-      "apple": "2025-04-07 21:31:04 -0600",
       "chicken": "2025-04-07 20:40:53 -0600",
       "bread": "2025-04-07 23:15:50 -0600",
-      "cooked_chicken": "2025-05-19 23:31:11 -0600",
       "rotten_flesh": "2025-04-07 21:28:16 -0600",
       "cooked_mutton": "2025-05-15 17:26:52 -0600",
-      "potato": "2025-02-18 23:11:49 -0600",
       "glow_berries": "2025-04-07 23:05:30 -0600",
+      "salmon": "2025-05-22 01:06:09 -0600",
       "cooked_beef": "2025-04-07 22:23:40 -0600",
       "porkchop": "2025-04-07 23:04:33 -0600",
+      "apple": "2025-04-07 21:31:04 -0600",
+      "cooked_chicken": "2025-05-19 23:31:11 -0600",
+      "potato": "2025-02-18 23:11:49 -0600",
       "pumpkin_pie": "2025-05-15 13:57:19 -0600"
     },
     "done": false
@@ -5273,12 +5274,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/wood/birch": {
-    "criteria": {
-      "requirement": "2025-05-19 23:01:04 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-05-19 22:14:49 -0600"
@@ -5291,21 +5286,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-05-19 23:08:44 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/stone_bricks": {
-    "criteria": {
-      "requirement": "2025-05-19 22:35:13 -0600"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/christmas_pack": {
     "criteria": {
       "has_planks": "2025-05-19 22:14:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-19 22:14:49 -0600"
     },
     "done": true
   },
@@ -5315,21 +5304,171 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/stone": {
-    "criteria": {
-      "requirement": "2025-05-19 22:57:37 -0600"
-    },
-    "done": true
-  },
   "master_cutter:recipes/quartz/nether_quartz": {
     "criteria": {
       "requirement": "2025-05-19 22:35:10 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "master_cutter:recipes/stone/stone_bricks": {
     "criteria": {
-      "has_snowball": "2025-05-19 22:14:49 -0600"
+      "requirement": "2025-05-19 22:35:13 -0600"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/stone": {
+    "criteria": {
+      "requirement": "2025-05-19 22:57:37 -0600"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/birch": {
+    "criteria": {
+      "requirement": "2025-05-19 23:01:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-05-19 23:08:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_light_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 00:24:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-22 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-05-22 00:20:09 -0600"
     },
     "done": true
   },
