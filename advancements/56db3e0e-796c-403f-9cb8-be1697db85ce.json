@@ -5388,45 +5388,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_light_blue_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-05-22 00:20:09 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-22 00:20:09 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-22 00:17:42 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-22 00:20:09 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-22 00:17:42 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-22 00:20:09 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-05-22 00:24:30 -0600"
     },
     "done": true
   },
@@ -5466,9 +5436,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_light_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2025-05-22 00:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 00:24:30 -0600"
     },
     "done": true
   },
