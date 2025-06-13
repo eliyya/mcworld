@@ -1486,6 +1486,7 @@
       "minecraft:spider": "2025-04-07 22:41:49 -0600",
       "minecraft:zombie": "2025-04-01 22:53:10 -0600",
       "minecraft:creeper": "2025-05-15 17:19:19 -0600",
+      "minecraft:drowned": "2025-06-12 12:05:11 -0600",
       "minecraft:slime": "2025-05-18 23:31:38 -0600"
     },
     "done": false
@@ -5770,9 +5771,9 @@
     },
     "done": false
   },
-  "travelersbackpack:recipes/misc/standard_smithing": {
+  "travelersbackpack:recipes/misc/creeper_smithing": {
     "criteria": {
-      "has_standard": "2025-06-09 23:26:49 -0600"
+      "has_creeper": "2025-06-09 22:53:34 -0600"
     },
     "done": true
   },
@@ -5782,27 +5783,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-06-09 23:26:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-09 23:33:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-06-09 23:54:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-06-10 00:04:26 -0600"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
-    "criteria": {
-      "has_creeper": "2025-06-09 22:53:34 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-06-10 00:04:26 -0600"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_smithing": {
-    "criteria": {
-      "has_iron": "2025-06-10 00:17:33 -0600"
     },
     "done": true
   },
@@ -5818,21 +5825,93 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "tropical_fish_bucket": "2025-06-09 23:54:00 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-09 23:33:14 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-06-10 00:04:26 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-06-10 00:17:33 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-06-12 09:35:32 -0600"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/metal/iron": {
+    "criteria": {
+      "requirement": "2025-06-12 09:43:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-12 09:43:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-12 09:43:18 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-06-12 09:45:04 -0600"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_shard": {
+    "criteria": {
+      "has_deepslate": "2025-06-12 10:21:18 -0600"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/deepslate": {
+    "criteria": {
+      "requirement": "2025-06-12 10:21:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-12 10:21:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-12 10:21:18 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-06-12 10:40:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-06-12 11:52:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-06-12 11:52:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-12 12:46:22 -0600"
     },
     "done": true
   },
