@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-06-30 10:11:37 -0600",
       "minecraft:flower_forest": "2025-02-18 23:21:20 -0600",
+      "minecraft:savanna_plateau": "2025-07-22 05:23:25 -0600",
       "minecraft:beach": "2025-05-13 23:43:20 -0600",
       "minecraft:old_growth_pine_taiga": "2025-05-18 23:28:43 -0600",
       "minecraft:dark_forest": "2025-04-07 20:41:16 -0600",
@@ -20,12 +21,15 @@
       "minecraft:dripstone_caves": "2025-04-10 23:12:23 -0600",
       "minecraft:deep_cold_ocean": "2025-06-30 10:13:47 -0600",
       "minecraft:old_growth_birch_forest": "2025-02-18 22:50:41 -0600",
+      "minecraft:windswept_forest": "2025-07-22 04:10:08 -0600",
       "minecraft:sunflower_plains": "2025-02-18 23:28:16 -0600",
       "minecraft:cherry_grove": "2025-05-13 23:55:01 -0600",
       "minecraft:birch_forest": "2025-04-07 20:30:34 -0600",
       "minecraft:windswept_gravelly_hills": "2025-06-30 21:50:20 -0600",
       "minecraft:windswept_hills": "2025-06-30 21:49:09 -0600",
       "minecraft:old_growth_spruce_taiga": "2025-05-18 23:28:39 -0600",
+      "minecraft:savanna": "2025-07-22 05:31:31 -0600",
+      "minecraft:windswept_savanna": "2025-07-22 04:24:20 -0600",
       "minecraft:plains": "2025-02-18 23:08:48 -0600"
     },
     "done": false
@@ -164,7 +168,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-18 22:55:37 -0600"
+      "minecraft:crimson_forest": "2025-07-24 22:35:07 -0600",
+      "minecraft:nether_wastes": "2025-02-18 22:55:37 -0600",
+      "minecraft:warped_forest": "2025-07-22 05:57:20 -0600"
     },
     "done": false
   },
@@ -3642,7 +3648,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:persian": "2025-04-10 22:13:35 -0600"
+      "minecraft:persian": "2025-04-10 22:13:35 -0600",
+      "minecraft:all_black": "2025-07-22 04:40:44 -0600"
     },
     "done": false
   },
@@ -5924,6 +5931,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-07-22 03:57:25 -0600",
+      "illager_camp": "2025-07-22 04:31:21 -0600",
       "mansion": "2025-06-13 11:12:58 -0600"
     },
     "done": false
@@ -6603,6 +6612,204 @@
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-06-30 22:32:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-22 03:54:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-22 03:54:30 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-07-22 03:57:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-22 04:19:26 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-22 04:19:27 -0600"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/warped": {
+    "criteria": {
+      "requirement": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_mystic": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/warped_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:03:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-07-23 04:44:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-24 22:38:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-24 23:15:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-24 23:19:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-24 23:15:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-24 23:15:16 -0600"
     },
     "done": true
   },
