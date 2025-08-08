@@ -1490,6 +1490,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-18 23:15:35 -0600",
+      "minecraft:blaze": "2025-08-06 05:18:19 -0600",
       "minecraft:cave_spider": "2025-06-07 21:45:46 -0600",
       "minecraft:skeleton": "2025-04-07 22:24:54 -0600",
       "minecraft:phantom": "2025-05-19 22:20:53 -0600",
@@ -6795,12 +6796,6 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-07-24 23:19:33 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-07-24 23:15:16 -0600"
@@ -6812,6 +6807,18 @@
       "has_blaze_powder": "2025-07-24 23:15:16 -0600"
     },
     "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-24 23:19:33 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "skeleton_camp_waste": "2025-08-06 05:20:55 -0600"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
