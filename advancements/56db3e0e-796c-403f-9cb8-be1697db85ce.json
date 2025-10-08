@@ -1491,10 +1491,11 @@
     "criteria": {
       "minecraft:pillager": "2025-05-18 23:15:35 -0600",
       "minecraft:blaze": "2025-08-06 05:18:19 -0600",
-      "minecraft:cave_spider": "2025-06-07 21:45:46 -0600",
       "minecraft:skeleton": "2025-04-07 22:24:54 -0600",
       "minecraft:phantom": "2025-05-19 22:20:53 -0600",
       "minecraft:zombified_piglin": "2025-04-12 23:16:49 -0600",
+      "minecraft:ghast": "2025-10-07 16:44:30 -0600",
+      "minecraft:cave_spider": "2025-06-07 21:45:46 -0600",
       "minecraft:enderman": "2025-04-07 22:59:18 -0600",
       "minecraft:spider": "2025-04-07 22:41:49 -0600",
       "minecraft:zombie": "2025-04-01 22:53:10 -0600",
@@ -6919,6 +6920,144 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-08-08 06:14:30 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/crimson": {
+    "criteria": {
+      "requirement": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_barred": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/crimson_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_mystic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_swamp_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_ranch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-07 16:37:58 -0600"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-10-07 16:40:31 -0600"
     },
     "done": true
   },
