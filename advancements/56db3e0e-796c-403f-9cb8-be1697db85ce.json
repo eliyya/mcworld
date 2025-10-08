@@ -1495,6 +1495,7 @@
       "minecraft:phantom": "2025-05-19 22:20:53 -0600",
       "minecraft:zombified_piglin": "2025-04-12 23:16:49 -0600",
       "minecraft:ghast": "2025-10-07 16:44:30 -0600",
+      "minecraft:hoglin": "2025-10-08 11:14:26 -0600",
       "minecraft:cave_spider": "2025-06-07 21:45:46 -0600",
       "minecraft:enderman": "2025-04-07 22:59:18 -0600",
       "minecraft:spider": "2025-04-07 22:41:49 -0600",
@@ -7058,6 +7059,18 @@
   "mcwlights:recipes/shroomlight_slab": {
     "criteria": {
       "has_wood": "2025-10-07 16:40:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-10-08 11:05:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-08 11:05:21 -0600"
     },
     "done": true
   },
