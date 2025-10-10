@@ -15,6 +15,7 @@
       "minecraft:deep_cold_ocean": "2025-06-30 10:13:47 -0600",
       "minecraft:frozen_ocean": "2025-10-08 22:03:24 -0600",
       "minecraft:windswept_forest": "2025-07-22 04:10:08 -0600",
+      "minecraft:deep_frozen_ocean": "2025-10-09 20:21:21 -0600",
       "minecraft:sunflower_plains": "2025-02-18 23:28:16 -0600",
       "minecraft:cherry_grove": "2025-05-13 23:55:01 -0600",
       "minecraft:birch_forest": "2025-04-07 20:30:34 -0600",
@@ -173,9 +174,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-24 22:35:07 -0600",
       "minecraft:nether_wastes": "2025-02-18 22:55:37 -0600",
-      "minecraft:warped_forest": "2025-07-22 05:57:20 -0600"
+      "minecraft:soul_sand_valley": "2025-10-09 20:52:47 -0600",
+      "minecraft:warped_forest": "2025-07-22 05:57:20 -0600",
+      "minecraft:basalt_deltas": "2025-10-09 20:54:08 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -463,12 +466,14 @@
       "glow_berries": "2025-04-07 23:05:30 -0600",
       "salmon": "2025-05-22 01:06:09 -0600",
       "cooked_beef": "2025-04-07 22:23:40 -0600",
+      "melon_slice": "2025-10-09 21:02:41 -0600",
       "porkchop": "2025-04-07 23:04:33 -0600",
       "tropical_fish": "2025-06-07 20:58:53 -0600",
       "apple": "2025-04-07 21:31:04 -0600",
       "cooked_chicken": "2025-05-19 23:31:11 -0600",
       "potato": "2025-02-18 23:11:49 -0600",
       "cooked_cod": "2025-06-30 13:54:34 -0600",
+      "cod": "2025-10-09 20:49:32 -0600",
       "cooked_salmon": "2025-06-07 21:30:30 -0600",
       "pumpkin_pie": "2025-05-15 13:57:19 -0600",
       "carrot": "2025-06-07 21:37:30 -0600"
@@ -5789,7 +5794,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-06-09 13:00:01 -0600"
+      "minecraft:cow": "2025-06-09 13:00:01 -0600",
+      "minecraft:sheep": "2025-10-09 21:09:20 -0600"
     },
     "done": false
   },
@@ -7203,6 +7209,72 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-10-08 21:42:52 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-10-09 21:54:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-09 21:54:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-09 21:54:54 -0600"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-10-09 21:54:54 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-10-09 22:40:29 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-10-09 22:48:32 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-10-09 22:34:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-10-09 21:00:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-10-09 21:54:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-09 21:54:54 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-10-09 22:29:49 -0600"
     },
     "done": true
   },
