@@ -5232,5 +5232,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-10-20 15:23:00 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
