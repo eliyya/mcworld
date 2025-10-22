@@ -5735,12 +5735,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/white_bundle": {
-    "criteria": {
-      "has_white_dye": "2025-10-20 17:09:54 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-10-20 16:13:11 -0600"
@@ -5756,12 +5750,6 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-20 16:13:11 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-10-20 17:09:54 -0600"
     },
     "done": true
   },
@@ -5789,12 +5777,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_white_harness": {
-    "criteria": {
-      "has_needed_dye": "2025-10-20 17:09:54 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-20 16:13:11 -0600"
@@ -5819,15 +5801,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_white_bed": {
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-10-20 16:13:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2025-10-20 17:09:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-10-20 17:09:54 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "minecraft:recipes/combat/dye_white_harness": {
     "criteria": {
-      "has_sandstone": "2025-10-20 16:13:11 -0600"
+      "has_needed_dye": "2025-10-20 17:09:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-20 17:09:54 -0600"
     },
     "done": true
   },

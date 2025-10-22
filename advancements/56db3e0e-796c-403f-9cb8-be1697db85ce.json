@@ -5238,5 +5238,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2025-10-21 18:38:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 18:38:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_white_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 18:38:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 18:38:49 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
