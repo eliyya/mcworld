@@ -1,3 +1,26 @@
 {
-  "placements": []
+  "placements": [
+    {
+      "id": "3cca46e8-edc9-4de6-b0e9-0c21260d7e16",
+      "file_name": "C:\\Users\\Jimenez\\AppData\\Roaming\\.minecraft\\perfiles\\f1.21.8\\schematics\\Trading Iron Farm.litematic",
+      "display_name": "Trading Iron Farm",
+      "hash": "35fe54b1-5eec-3ba3-b063-f6550953ddc8",
+      "origin": {
+        "position": [
+          -2341,
+          107,
+          4569
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "56db3e0e-796c-403f-9cb8-be1697db85ce",
+        "name": "Liz115"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4440
+    }
+  ]
 }

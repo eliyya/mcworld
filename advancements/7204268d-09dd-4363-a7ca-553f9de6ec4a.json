@@ -5831,5 +5831,17 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-10-27 17:15:49 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-10-27 17:15:49 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }

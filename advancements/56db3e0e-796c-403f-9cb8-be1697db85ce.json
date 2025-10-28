@@ -2683,8 +2683,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:calico": "2025-10-27 16:59:13 -0600",
       "minecraft:persian": "2025-04-10 22:13:35 -0600",
       "minecraft:all_black": "2025-07-22 04:40:44 -0600",
+      "minecraft:ragdoll": "2025-10-27 16:58:14 -0600",
       "minecraft:red": "2025-10-10 20:10:22 -0600"
     },
     "done": false
@@ -5259,6 +5261,24 @@
   "minecraft:recipes/decorations/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-10-21 18:38:49 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot_smithing": {
+    "criteria": {
+      "has_ocelot": "2025-10-27 16:55:36 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-10-27 17:15:46 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-10-27 17:15:46 -0600"
     },
     "done": true
   },
