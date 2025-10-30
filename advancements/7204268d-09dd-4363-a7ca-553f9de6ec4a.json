@@ -5843,5 +5843,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-10-29 16:31:16 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-10-29 17:37:52 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
