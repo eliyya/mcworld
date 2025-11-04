@@ -3889,6 +3889,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-06-09 13:00:01 -0600",
+      "minecraft:chicken": "2025-11-03 18:51:42 -0600",
       "minecraft:sheep": "2025-10-09 21:09:20 -0600"
     },
     "done": false
@@ -5294,63 +5295,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_pink_harness": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:57 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
     "criteria": {
       "has_magenta_wool": "2025-10-29 17:03:08 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
-      "has_blue_dye": "2025-10-29 17:28:52 -0600"
+      "has_magenta_wool": "2025-10-29 17:03:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-10-29 17:03:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-10-29 17:03:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-10-29 17:20:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-10-29 17:20:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-10-29 17:22:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-10-29 17:25:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-29 17:26:58 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-10-29 17:28:49 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-10-29 17:28:57 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/blue_bundle": {
-    "criteria": {
-      "has_blue_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:57 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-10-29 17:28:57 -0600"
     },
     "done": true
   },
@@ -5366,21 +5367,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/dye_yellow_harness": {
     "criteria": {
       "has_needed_dye": "2025-10-29 17:28:49 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/tools/pink_bundle": {
+  "minecraft:recipes/decorations/dye_yellow_bed": {
     "criteria": {
-      "has_pink_dye": "2025-10-29 17:28:57 -0600"
+      "has_needed_dye": "2025-10-29 17:28:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-10-29 17:28:49 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:52 -0600"
     },
     "done": true
   },
@@ -5390,9 +5433,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_bed": {
+  "minecraft:recipes/combat/dye_blue_harness": {
     "criteria": {
-      "has_magenta_wool": "2025-10-29 17:03:08 -0600"
+      "has_needed_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-29 17:28:52 -0600"
     },
     "done": true
   },
@@ -5408,87 +5469,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_blue_harness": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:49 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-10-29 17:25:45 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_carpet": {
-    "criteria": {
-      "has_magenta_wool": "2025-10-29 17:03:08 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-10-29 17:22:53 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-10-29 17:28:55 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
+  "minecraft:recipes/tools/light_blue_bundle": {
     "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:59 -0600"
+      "has_light_blue_dye": "2025-10-29 17:28:55 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_yellow_carpet": {
+  "minecraft:recipes/combat/dye_pink_harness": {
     "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:49 -0600"
+      "has_needed_dye": "2025-10-29 17:28:57 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_banner": {
+  "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
-      "has_magenta_wool": "2025-10-29 17:03:08 -0600"
+      "has_pink_dye": "2025-10-29 17:28:57 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
     "criteria": {
-      "has_blue_dye": "2025-10-29 17:28:52 -0600"
+      "has_needed_dye": "2025-10-29 17:28:57 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
-      "has_yellow_dye": "2025-10-29 17:28:49 -0600"
+      "has_pink_dye": "2025-10-29 17:28:57 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_red_bed": {
+  "minecraft:recipes/tools/pink_bundle": {
     "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:59 -0600"
+      "has_pink_dye": "2025-10-29 17:28:57 -0600"
     },
     "done": true
   },
@@ -5498,27 +5517,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-29 17:28:59 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-10-29 17:28:59 -0600"
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:49 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/red_bundle": {
     "criteria": {
       "has_red_dye": "2025-10-29 17:28:59 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-10-29 17:20:04 -0600"
     },
     "done": true
   },
@@ -5534,39 +5565,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-10-29 17:26:58 -0600"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:57 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-10-29 17:20:04 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/dye_red_harness": {
     "criteria": {
       "has_needed_dye": "2025-10-29 17:28:59 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-10-29 17:28:57 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/light_blue_bundle": {
-    "criteria": {
-      "has_light_blue_dye": "2025-10-29 17:28:55 -0600"
     },
     "done": true
   },
