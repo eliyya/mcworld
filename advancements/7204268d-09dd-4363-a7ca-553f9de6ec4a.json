@@ -2571,6 +2571,7 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
+      "minecraft:spotted": "2025-11-11 21:30:43 -0600",
       "minecraft:woods": "2025-01-17 19:31:47 -0600"
     },
     "done": false
@@ -5855,15 +5856,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-11-03 17:32:47 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-11-03 17:44:46 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+  "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
-      "has_boat": "2025-11-03 17:32:47 -0600"
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-11-11 22:41:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-11-11 22:41:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-11-11 20:39:17 -0600"
     },
     "done": true
   },
