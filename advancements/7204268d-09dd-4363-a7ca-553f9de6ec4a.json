@@ -5741,15 +5741,15 @@
     },
     "done": true
   },
-  "travelersbackpack:root": {
-    "criteria": {
-      "tick": "2026-02-03 01:26:23 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_chain": {
     "criteria": {
       "has_iron_ingot": "2026-02-03 01:26:22 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-02-03 01:26:23 -0600"
     },
     "done": true
   },
