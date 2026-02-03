@@ -5910,27 +5910,27 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/sandstone_smithing": {
-    "criteria": {
-      "has_sandstone": "2025-11-11 22:41:25 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-11-11 20:39:17 -0600"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/sponge_smithing": {
-    "criteria": {
-      "has_sponge": "2025-11-11 22:41:31 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-11-11 20:39:17 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-11-11 22:41:25 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-11-11 22:41:31 -0600"
     },
     "done": true
   },
