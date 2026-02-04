@@ -1320,12 +1320,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-07 20:50:37 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-07 20:50:37 -0600"
@@ -3277,57 +3271,9 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/cobblestone": {
-    "criteria": {
-      "requirement": "2025-05-15 13:08:18 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/misc": {
-    "criteria": {
-      "requirement": "2025-05-15 13:08:18 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/spruce": {
-    "criteria": {
-      "requirement": "2025-05-15 13:08:18 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/metal/gold": {
-    "criteria": {
-      "requirement": "2025-05-15 13:13:34 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/cherry": {
-    "criteria": {
-      "requirement": "2025-05-15 13:13:38 -0600"
-    },
-    "done": true
-  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-05-15 13:34:02 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/andesite": {
-    "criteria": {
-      "requirement": "2025-05-15 14:02:01 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/granite": {
-    "criteria": {
-      "requirement": "2025-05-15 16:59:02 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/tuff": {
-    "criteria": {
-      "requirement": "2025-05-16 22:46:38 -0600"
     },
     "done": true
   },
@@ -3415,18 +3361,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/wood/dark_oak": {
-    "criteria": {
-      "requirement": "2025-05-16 23:21:42 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/diorite": {
-    "criteria": {
-      "requirement": "2025-05-18 21:52:58 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-05-18 23:00:53 -0600"
@@ -3460,36 +3394,6 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-19 22:14:49 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/quartz/amethyst": {
-    "criteria": {
-      "requirement": "2025-05-19 22:32:33 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/quartz/nether_quartz": {
-    "criteria": {
-      "requirement": "2025-05-19 22:35:10 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/stone_bricks": {
-    "criteria": {
-      "requirement": "2025-05-19 22:35:13 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/stone": {
-    "criteria": {
-      "requirement": "2025-05-19 22:57:37 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/birch": {
-    "criteria": {
-      "requirement": "2025-05-19 23:01:04 -0600"
     },
     "done": true
   },
@@ -3634,18 +3538,6 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-06-07 21:42:32 -0600"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_dust": {
-    "criteria": {
-      "has_ender_pearl": "2025-06-07 21:42:32 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/mossy_cobblestone": {
-    "criteria": {
-      "requirement": "2025-06-07 22:03:57 -0600"
     },
     "done": true
   },
@@ -3970,12 +3862,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/metal/iron": {
-    "criteria": {
-      "requirement": "2025-06-12 09:43:18 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-06-12 09:43:18 -0600"
@@ -4003,18 +3889,6 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-06-12 10:21:18 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/deepslate": {
-    "criteria": {
-      "requirement": "2025-06-12 10:21:18 -0600"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/deepslate_shard": {
-    "criteria": {
-      "has_deepslate": "2025-06-12 10:21:18 -0600"
     },
     "done": true
   },
@@ -4171,12 +4045,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/wood/oak": {
-    "criteria": {
-      "requirement": "2025-06-15 19:33:03 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-06-18 01:05:40 -0600"
@@ -4228,12 +4096,6 @@
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2025-06-18 03:20:21 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/metal/copper": {
-    "criteria": {
-      "requirement": "2025-06-18 03:56:02 -0600"
     },
     "done": true
   },
@@ -4315,12 +4177,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/mossy_stone_bricks": {
-    "criteria": {
-      "requirement": "2025-06-30 10:01:24 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-30 10:01:24 -0600"
@@ -4360,12 +4216,6 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-06-30 10:06:35 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/acacia": {
-    "criteria": {
-      "requirement": "2025-06-30 10:06:35 -0600"
     },
     "done": true
   },
@@ -4525,12 +4375,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/wood/warped": {
-    "criteria": {
-      "requirement": "2025-07-22 06:03:49 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-07-22 06:03:49 -0600"
@@ -4572,12 +4416,6 @@
       "potion": "2025-07-24 23:19:33 -0600"
     },
     "done": true
-  },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "skeleton_camp_waste": "2025-08-06 05:20:55 -0600"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
@@ -4654,12 +4492,6 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-10-07 16:37:58 -0600"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/crimson": {
-    "criteria": {
-      "requirement": "2025-10-07 16:37:58 -0600"
     },
     "done": true
   },
@@ -4909,12 +4741,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/blackstone": {
-    "criteria": {
-      "requirement": "2025-10-10 22:06:15 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-10-10 22:06:15 -0600"
@@ -5131,12 +4957,6 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/sandstone": {
-    "criteria": {
-      "requirement": "2025-10-14 00:13:17 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-10-14 00:13:17 -0600"
@@ -5182,18 +5002,6 @@
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-10-14 23:31:09 -0600"
-    },
-    "done": true
-  },
-  "global:root": {
-    "criteria": {
-      "trigger": "2025-10-15 23:06:15 -0600"
-    },
-    "done": true
-  },
-  "global:master_cutter": {
-    "criteria": {
-      "trigger": "2025-10-15 23:06:15 -0600"
     },
     "done": true
   },
@@ -5272,12 +5080,6 @@
   "travelersbackpack:recipes/misc/ocelot_smithing": {
     "criteria": {
       "has_ocelot": "2025-10-27 16:55:36 -0600"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-10-27 17:15:46 -0600"
     },
     "done": true
   },
@@ -5575,5 +5377,161 @@
     },
     "done": true
   },
-  "DataVersion": 4440
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-02-03 21:24:27 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:use_sleeping_bag": {
+    "criteria": {
+      "use_sleeping_bag": "2026-02-03 21:45:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-02-03 22:20:15 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2026-02-03 22:20:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2026-02-03 22:28:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-02-03 23:13:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-02-03 23:13:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2026-02-03 23:48:37 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-02-03 23:48:37 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2026-02-03 23:51:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_chestplate": "2026-02-03 23:57:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_chestplate": "2026-02-03 23:57:31 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2026-02-04 00:08:54 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard": {
+    "criteria": {
+      "standard": "2026-02-04 00:10:24 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 4556
 }

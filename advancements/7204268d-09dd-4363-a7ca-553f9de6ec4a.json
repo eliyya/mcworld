@@ -27,6 +27,7 @@
       "minecraft:savanna_plateau": "2025-07-22 05:23:21 -0600",
       "minecraft:beach": "2025-05-13 23:43:19 -0600",
       "minecraft:dark_forest": "2024-08-05 11:45:49 -0600",
+      "minecraft:mangrove_swamp": "2026-02-03 22:00:35 -0600",
       "minecraft:river": "2024-08-05 11:51:58 -0600",
       "minecraft:stony_shore": "2025-06-07 22:50:52 -0600",
       "minecraft:dripstone_caves": "2025-04-10 23:12:44 -0600",
@@ -754,6 +755,7 @@
       "minecraft:enderman": "2025-01-22 20:37:35 -0600",
       "minecraft:stray": "2025-10-08 17:07:01 -0600",
       "minecraft:magma_cube": "2025-08-23 12:56:39 -0600",
+      "minecraft:endermite": "2026-02-03 21:31:34 -0600",
       "minecraft:spider": "2025-01-14 23:17:54 -0600",
       "minecraft:zombie": "2024-08-05 12:11:16 -0600",
       "minecraft:creeper": "2025-01-14 15:15:43 -0600",
@@ -5750,6 +5752,138 @@
   "travelersbackpack:root": {
     "criteria": {
       "tick": "2026-02-03 01:26:23 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:tool_slots": {
+    "criteria": {
+      "swap_tools": "2026-02-03 21:24:17 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:use_sleeping_bag": {
+    "criteria": {
+      "use_sleeping_bag": "2026-02-03 21:56:05 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:dye_backpack": {
+    "criteria": {
+      "dye_backpack": "2026-02-03 22:07:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2026-02-03 22:08:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_leggings": "2026-02-03 23:51:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2026-02-03 22:22:12 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2026-02-03 23:51:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-02-03 22:22:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_leggings": "2026-02-03 23:51:44 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2026-02-03 23:51:56 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard": {
+    "criteria": {
+      "standard": "2026-02-03 23:53:19 -0600"
     },
     "done": true
   },
