@@ -5845,21 +5845,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_nugget_from_smelting": {
-    "criteria": {
-      "has_copper_leggings": "2026-02-03 23:51:44 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
     "criteria": {
       "has_copper_chest": "2026-02-03 22:22:12 -0600"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken_smithing": {
-    "criteria": {
-      "has_chicken": "2026-02-03 23:51:56 -0600"
     },
     "done": true
   },
@@ -5869,9 +5857,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_leggings": "2026-02-03 23:51:44 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_nugget_from_blasting": {
     "criteria": {
       "has_copper_leggings": "2026-02-03 23:51:44 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2026-02-03 23:51:56 -0600"
     },
     "done": true
   },
