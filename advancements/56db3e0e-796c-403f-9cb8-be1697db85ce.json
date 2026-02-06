@@ -5533,5 +5533,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_chain": {
+    "criteria": {
+      "has_iron_nugget": "2026-02-06 00:14:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_golem_statue_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_golem_statue": "2026-02-05 23:27:12 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:dye_backpack": {
+    "criteria": {
+      "dye_backpack": "2026-02-06 00:18:55 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
