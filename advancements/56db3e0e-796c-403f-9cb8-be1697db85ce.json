@@ -11,11 +11,13 @@
       "minecraft:old_growth_pine_taiga": "2025-05-18 23:28:43 -0600",
       "minecraft:forest": "2025-02-18 23:05:28 -0600",
       "minecraft:taiga": "2025-05-14 00:17:00 -0600",
+      "minecraft:deep_ocean": "2026-02-06 18:26:48 -0600",
       "minecraft:lush_caves": "2025-04-07 20:42:36 -0600",
       "minecraft:deep_cold_ocean": "2025-06-30 10:13:47 -0600",
       "minecraft:frozen_ocean": "2025-10-08 22:03:24 -0600",
       "minecraft:windswept_forest": "2025-07-22 04:10:08 -0600",
       "minecraft:deep_frozen_ocean": "2025-10-09 20:21:21 -0600",
+      "minecraft:ocean": "2026-02-06 16:52:23 -0600",
       "minecraft:sunflower_plains": "2025-02-18 23:28:16 -0600",
       "minecraft:cherry_grove": "2025-05-13 23:55:01 -0600",
       "minecraft:birch_forest": "2025-04-07 20:30:34 -0600",
@@ -23,18 +25,21 @@
       "minecraft:old_growth_spruce_taiga": "2025-05-18 23:28:39 -0600",
       "minecraft:snowy_beach": "2025-10-08 23:35:12 -0600",
       "minecraft:windswept_savanna": "2025-07-22 04:24:20 -0600",
+      "minecraft:deep_lukewarm_ocean": "2026-02-06 18:34:30 -0600",
       "minecraft:flower_forest": "2025-02-18 23:21:20 -0600",
       "minecraft:savanna_plateau": "2025-07-22 05:23:25 -0600",
       "minecraft:beach": "2025-05-13 23:43:20 -0600",
       "minecraft:dark_forest": "2025-04-07 20:41:16 -0600",
       "minecraft:river": "2025-02-18 23:05:36 -0600",
+      "minecraft:lukewarm_ocean": "2026-02-06 18:34:45 -0600",
       "minecraft:stony_shore": "2025-06-30 10:36:10 -0600",
       "minecraft:dripstone_caves": "2025-04-10 23:12:23 -0600",
       "minecraft:old_growth_birch_forest": "2025-02-18 22:50:41 -0600",
       "minecraft:swamp": "2025-10-08 16:47:43 -0600",
       "minecraft:windswept_gravelly_hills": "2025-06-30 21:50:20 -0600",
       "minecraft:savanna": "2025-07-22 05:31:31 -0600",
-      "minecraft:plains": "2025-02-18 23:08:48 -0600"
+      "minecraft:plains": "2025-02-18 23:08:48 -0600",
+      "minecraft:pale_garden": "2026-02-06 19:36:44 -0600"
     },
     "done": false
   },
@@ -3786,6 +3791,7 @@
       "minecraft:cow": "2025-06-09 13:00:01 -0600",
       "minecraft:chicken": "2025-11-03 18:51:42 -0600",
       "minecraft:wolf": "2025-11-11 21:52:13 -0600",
+      "minecraft:turtle": "2026-02-06 17:21:15 -0600",
       "minecraft:sheep": "2025-10-09 21:09:20 -0600"
     },
     "done": false
@@ -5533,21 +5539,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/iron_chain": {
-    "criteria": {
-      "has_iron_nugget": "2026-02-06 00:14:14 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_golem_statue_from_honeycomb": {
     "criteria": {
       "has_oxidized_copper_golem_statue": "2026-02-05 23:27:12 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_chain": {
+    "criteria": {
+      "has_iron_nugget": "2026-02-06 00:14:14 -0600"
+    },
+    "done": true
+  },
   "travelersbackpack:dye_backpack": {
     "criteria": {
       "dye_backpack": "2026-02-06 00:18:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-02-06 16:49:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-02-06 16:55:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "dnt_discover_structure": "2026-02-06 18:35:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
     },
     "done": true
   },
