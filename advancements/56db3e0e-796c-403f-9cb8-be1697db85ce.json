@@ -5569,6 +5569,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "dnt_discover_structure": "2026-02-06 18:35:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
@@ -5578,12 +5584,6 @@
   "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
       "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "dnt_discover_structure": "2026-02-06 18:35:30 -0600"
     },
     "done": true
   },
@@ -5614,6 +5614,24 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
       "has_tuff_bricks": "2026-02-06 19:31:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2026-02-20 18:02:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-02-20 18:00:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-02-20 18:00:55 -0600"
     },
     "done": true
   },
