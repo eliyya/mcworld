@@ -5617,12 +5617,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_moss_carpet": {
-    "criteria": {
-      "has_pale_moss_block": "2026-02-20 18:02:53 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
       "has_log": "2026-02-20 18:00:55 -0600"
@@ -5632,6 +5626,78 @@
   "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
       "has_log": "2026-02-20 18:00:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2026-02-20 18:02:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-02-24 19:37:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-02-24 19:37:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-02-24 19:48:02 -0600"
     },
     "done": true
   },
