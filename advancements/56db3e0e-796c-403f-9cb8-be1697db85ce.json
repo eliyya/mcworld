@@ -5635,6 +5635,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-02-24 19:37:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-02-24 19:37:25 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/pale_oak_trapdoor": {
     "criteria": {
       "has_planks": "2026-02-24 19:48:02 -0600"
@@ -5644,12 +5656,6 @@
   "minecraft:recipes/decorations/pale_oak_fence": {
     "criteria": {
       "has_planks": "2026-02-24 19:48:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2026-02-24 19:37:25 -0600"
     },
     "done": true
   },
@@ -5677,12 +5683,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2026-02-24 19:37:25 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_stairs": {
     "criteria": {
       "has_planks": "2026-02-24 19:48:02 -0600"
@@ -5698,6 +5698,36 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2026-02-24 19:48:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-02-27 19:39:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2026-02-27 19:17:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2026-02-27 19:17:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-02-27 19:39:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_creaking_heart_awake": "2026-02-27 19:17:26 -0600"
     },
     "done": true
   },
