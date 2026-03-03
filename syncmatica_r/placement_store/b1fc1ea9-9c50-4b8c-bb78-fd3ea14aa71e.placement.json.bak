@@ -1,7 +1,7 @@
 {
-  "id": "b76ee9ae-a755-48a4-8be2-378f0b919428",
-  "file_name": "almacen",
-  "hash": "7e1e7542-c6ae-314c-a78d-d21209353a39",
+  "id": "b1fc1ea9-9c50-4b8c-bb78-fd3ea14aa71e",
+  "file_name": "almacenv2",
+  "hash": "0585c801-ec61-3924-bef0-0b145662e3a0",
   "origin": {
     "position": [
       -136,
@@ -16,8 +16,8 @@
     "uuid": "7204268d-09dd-4363-a7ca-553f9de6ec4a",
     "name": "eliyya"
   },
-  "createdAt": 1772244327738,
-  "lastModifiedAt": 1772244327738,
+  "createdAt": 1772497712866,
+  "lastModifiedAt": 1772497712866,
   "materials": {
     "entries": [
       {
@@ -186,6 +186,11 @@
         "stockSupplied": 0
       },
       {
+        "item": "minecraft:stone_brick_stairs",
+        "required": 27,
+        "stockSupplied": 0
+      },
+      {
         "item": "minecraft:oak_pressure_plate",
         "required": 2,
         "stockSupplied": 0
@@ -222,7 +227,7 @@
       },
       {
         "item": "minecraft:tuff_brick_stairs",
-        "required": 34,
+        "required": 7,
         "stockSupplied": 0
       },
       {
@@ -386,11 +391,6 @@
         "stockSupplied": 0
       },
       {
-        "item": "minecraft:tuff_bricks",
-        "required": 1152,
-        "stockSupplied": 0
-      },
-      {
         "item": "minecraft:warped_stem",
         "required": 1,
         "stockSupplied": 0
@@ -426,11 +426,6 @@
         "stockSupplied": 0
       },
       {
-        "item": "minecraft:stone_bricks",
-        "required": 1,
-        "stockSupplied": 0
-      },
-      {
         "item": "minecraft:decorated_pot",
         "required": 1,
         "stockSupplied": 0
@@ -438,6 +433,11 @@
       {
         "item": "minecraft:packed_ice",
         "required": 4,
+        "stockSupplied": 0
+      },
+      {
+        "item": "minecraft:stone_bricks",
+        "required": 1153,
         "stockSupplied": 0
       },
       {
