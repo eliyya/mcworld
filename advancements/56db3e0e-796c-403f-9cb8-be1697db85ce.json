@@ -5737,5 +5737,23 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2026-03-05 18:37:56 -0600"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/dormant_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2026-03-05 18:37:56 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:gold_upgrade": {
+    "criteria": {
+      "gold_upgrade": "2026-03-05 18:56:55 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
