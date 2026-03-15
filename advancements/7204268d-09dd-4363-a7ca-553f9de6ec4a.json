@@ -6147,15 +6147,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_honeycomb": {
-    "criteria": {
-      "has_copper_grate": "2026-03-13 19:33:13 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2026-03-13 19:21:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_honeycomb": {
+    "criteria": {
+      "has_copper_grate": "2026-03-13 19:33:13 -0600"
     },
     "done": true
   },
