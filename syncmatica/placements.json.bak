@@ -1,3 +1,114 @@
 {
-  "placements": []
+  "placements": [
+    {
+      "id": "7984cf5c-98d1-4282-ada8-0dbf6a0015f8",
+      "file_name": "/home/eli/.local/share/PrismLauncher/instances/Keo Optimized/minecraft/schematics/almacenv2.litematic",
+      "display_name": "Unnamed",
+      "hash": "0585c801-ec61-3924-bef0-0b145662e3a0",
+      "origin": {
+        "position": [
+          -136,
+          54,
+          -8
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "7204268d-09dd-4363-a7ca-553f9de6ec4a",
+        "name": "eliyya"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4556
+    },
+    {
+      "id": "f40bc0e8-af17-476f-ae01-82bdaba6b2d7",
+      "file_name": "/home/eli/.local/share/PrismLauncher/instances/Keo Optimized/minecraft/schematics/almacenv2.litematic",
+      "display_name": "Unnamed",
+      "hash": "0585c801-ec61-3924-bef0-0b145662e3a0",
+      "origin": {
+        "position": [
+          -136,
+          54,
+          -8
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "7204268d-09dd-4363-a7ca-553f9de6ec4a",
+        "name": "eliyya"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4556
+    },
+    {
+      "id": "404eb072-d26b-40b9-8d1f-d41d60aa4591",
+      "file_name": "/home/eli/.local/share/PrismLauncher/instances/Keo Optimized/minecraft/schematics/almacenv2.litematic",
+      "display_name": "Unnamed",
+      "hash": "0585c801-ec61-3924-bef0-0b145662e3a0",
+      "origin": {
+        "position": [
+          -136,
+          54,
+          -8
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "7204268d-09dd-4363-a7ca-553f9de6ec4a",
+        "name": "eliyya"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4556
+    },
+    {
+      "id": "c5612340-17e7-4408-9665-aa235e5f55aa",
+      "file_name": "/home/eli/.local/share/PrismLauncher/instances/Keo Optimized/minecraft/schematics/almacenv2.litematic",
+      "display_name": "Unnamed",
+      "hash": "0585c801-ec61-3924-bef0-0b145662e3a0",
+      "origin": {
+        "position": [
+          -136,
+          54,
+          -8
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "7204268d-09dd-4363-a7ca-553f9de6ec4a",
+        "name": "eliyya"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4556
+    },
+    {
+      "id": "c0571599-71ec-4e74-8dea-878762b535d1",
+      "file_name": "/home/eli/.local/share/PrismLauncher/instances/Keo Optimized/minecraft/schematics/almacenv2.litematic",
+      "display_name": "Unnamed",
+      "hash": "0585c801-ec61-3924-bef0-0b145662e3a0",
+      "origin": {
+        "position": [
+          -136,
+          54,
+          -8
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "7204268d-09dd-4363-a7ca-553f9de6ec4a",
+        "name": "eliyya"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4556
+    }
+  ]
 }
