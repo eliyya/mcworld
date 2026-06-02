@@ -4,6 +4,7 @@
       "minecraft:old_growth_birch_forest": "2025-06-21 20:30:56 -0600",
       "minecraft:savanna_plateau": "2026-02-28 22:30:48 -0600",
       "minecraft:dark_forest": "2025-06-21 20:47:27 -0600",
+      "minecraft:forest": "2026-06-01 19:36:13 -0600",
       "minecraft:river": "2025-06-22 14:19:40 -0600",
       "minecraft:lush_caves": "2025-06-22 14:22:06 -0600",
       "minecraft:dripstone_caves": "2025-08-06 05:20:08 -0600"
@@ -430,6 +431,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2026-06-01 19:49:51 -0600",
       "carrot": "2025-06-21 21:27:20 -0600"
     },
     "done": false
@@ -1345,6 +1347,120 @@
   "travelersbackpack:root": {
     "criteria": {
       "tick": "2026-02-28 22:27:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_chestplate": "2026-06-01 18:47:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_chestplate": "2026-06-01 18:47:38 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:use_sleeping_bag": {
+    "criteria": {
+      "use_sleeping_bag": "2026-06-01 18:50:18 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2026-06-01 18:55:52 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2026-06-01 18:55:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-01 19:07:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2026-06-01 19:14:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-06-01 19:16:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-06-01 19:16:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-06-01 19:34:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-06-01 19:34:24 -0600"
     },
     "done": true
   },
