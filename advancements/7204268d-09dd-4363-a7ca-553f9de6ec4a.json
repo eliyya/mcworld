@@ -6376,5 +6376,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2026-06-01 23:45:33 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
