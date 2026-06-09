@@ -430,6 +430,7 @@
       "sweet_berries": "2025-05-18 22:37:57 -0600",
       "cooked_beef": "2025-01-16 11:52:28 -0600",
       "beef": "2025-06-09 15:12:47 -0600",
+      "baked_potato": "2026-06-08 21:49:44 -0600",
       "porkchop": "2025-06-30 13:10:17 -0600",
       "apple": "2025-04-16 01:55:55 -0600",
       "cooked_chicken": "2025-04-07 23:01:41 -0600",
@@ -6379,6 +6380,12 @@
   "travelersbackpack:recipes/misc/lapis_smithing": {
     "criteria": {
       "has_lapis": "2026-06-01 23:45:33 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2026-06-08 22:21:31 -0600"
     },
     "done": true
   },
