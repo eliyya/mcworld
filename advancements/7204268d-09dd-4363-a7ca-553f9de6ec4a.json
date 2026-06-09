@@ -6389,5 +6389,47 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2026-06-09 11:32:52 -0600"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-09 16:01:35 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2026-06-09 11:39:19 -0600"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/dormant_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-09 16:01:35 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2026-06-09 11:32:56 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2026-06-09 11:32:56 -0600"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2026-06-09 11:31:36 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
